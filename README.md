@@ -4,6 +4,8 @@ You can search for whatever photo you want to see..
 
 I used HTML,CSS and JS for creating this website.
 
+Unsplash.com's API was used in this app.
+
 
 Preview : 
 
